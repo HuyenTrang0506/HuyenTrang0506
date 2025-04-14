@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Huyen Trang 👋</h1>
 
-<!--
-**HuyenTrang0506/HuyenTrang0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Software Engineer | 🧠 AI Researcher | ☁️ DevOps Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I'm a third-year Computer Science student with a strong foundation in full-stack web development and AI research.
+- 🧠 Actively researching **Vietnamese text summarization** using NLP and optimization algorithms.
+- 🔧 I design and build scalable systems with **Spring Boot**, **React**, **RESTful APIs**, and **Clean Architecture** patterns.
+- 💡 Passionate about system architecture, from **MVC/MMVC**, **design patterns**, to **CI/CD pipelines** using **GitLab**.
+
+---
+
+### 🔧 Tech Stack
+
+#### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+
+#### 📚 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
+
+#### 🛠️ Tools & CI/CD
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-%23FC6D26.svg?&style=flat&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat&logo=mongodb&logoColor=white)
+
+#### 🧠 Architecture & Patterns
+`MVC`, `MMVC`, `Clean Architecture`, `Repository-Service`, `Observer`, `Factory`, `Builder`, ...
+
+---
+
+### 🗣️ Language & Communication
+
+- TOEIC: **760** – Strong command of English for technical and business settings  
+- Excellent **verbal communication** skills for collaboration, teamwork, and presentations
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-name/](https://www.linkedin.com/in/trang-huy%E1%BB%81n-b85a67302/))
+- 📬 Email: tranghuyen9696@gmail.com
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+</p>
