@@ -11,8 +11,6 @@
 - 🎓 I'm a third-year Computer Science student with a strong foundation in full-stack web development and AI research.
 - 🧠 Actively researching **Vietnamese text summarization** using NLP and optimization algorithms.
 - 🔧 I design and build scalable systems with **Spring Boot**, **React**, **RESTful APIs**, and **Clean Architecture** patterns.
-- 💡 Passionate about system architecture, from **MVC/MMVC**, **design patterns**, to **CI/CD pipelines** using **GitLab**.
-
 ---
 
 ### 🔧 Tech Stack
