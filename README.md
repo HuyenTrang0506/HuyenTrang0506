@@ -47,8 +47,8 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-- 💼 LinkedIn:[https://www.linkedin.com/in/trang-huy%E1%BB%81n-b85a67302/]
-- 📬 Email: tranghuyen9696@gmail.com
+- LinkedIn:[https://www.linkedin.com/in/trang-huy%E1%BB%81n-b85a67302/]
+- Email: tranghuyen9696@gmail.com
 
