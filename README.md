@@ -49,6 +49,6 @@
 
 ### Let's Connect
 
-- LinkedIn:[https://www.linkedin.com/in/huyen-trang0506/]
+- LinkedIn:https://www.linkedin.com/in/huyen-trang0506/
 - Email: tranghuyen9696@gmail.com
 
