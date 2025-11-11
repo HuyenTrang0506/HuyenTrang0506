@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 
-- I'm a third-year Computer Science student with a strong foundation in full-stack web development and AI research.
+- I'm a senior Computer Science student with a strong foundation in backend development and AI research.
 - Actively researching **Vietnamese text summarization** using NLP and optimization algorithms.
-- I design and build scalable systems with **Spring Boot**, **React**, **RESTful APIs**, and **Clean Architecture** patterns.
+- I design and build scalable systems with **Spring Boot**, **Nestjs**, **React**, **RESTful APIs**, and **Clean Architecture** patterns.
 ---
 
 ### 🔧Tech Stack
